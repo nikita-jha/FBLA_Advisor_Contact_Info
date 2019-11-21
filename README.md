@@ -14,11 +14,20 @@ Project Build Instructions:
 
 1). Download project from github URL (green CLONE/DOWNLOAD button on top right side of page) 
 
-2). Project is set up for IntelliJ IDE. Import the entire source code as a new project in IntelliJ or Eclpise 
+2). Project is set up for IntelliJ IDE (.idea included). Open project in IntelliJ or Eclpise 
 
-3). Ensure dependecies from libraries are fully resolved. 
+3). Ensure dependecies from libraries are fully resolved. Open Module Settings and import the libraries to run JavaFX projects. 
 
-4). Look for Main.java file and run (In Intellij, right click and select Run Main.java.
+4). The Application uses MSAccess DB. https://sourceforge.net/projects/ucanaccess/files/. You have to download UCanAccess distribution and add the following JAR files to the classpath (In Intellij add these libraries as external dependencies):
+    ucanaccess-4.0.4.jar
+    hsqldb-2.3.1.jar
+    jackcess-2.1.11.jar
+    commons-lang-2.6.jar
+    commons-logging-1.1.3.jar
+    
+5). Compile and build the project. Ensure no error remains.
+
+6). Look for Main.java file and run (In Intellij, right click and select Run Main.java.
 
 5). A JavaFX standalone application Login page will open. Follow Application Instructions from here.
 
