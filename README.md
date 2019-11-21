@@ -1,10 +1,15 @@
 # FBLA_Advisor_Contact_Info
+
 School Name: Northview High School
+
 Name: Nikita Jha
+
 Application Username: NORTHVIEW
 Application Passwork: PASSWORD
+
 Language: Java and JavaFX
 Dependencies: Java 8, JavaFX 12, and MSAccess (as Database), Excel (for CSV)
+
 Project Build Instructions: 
 1). Download project from github URL (green CLONE/DOWNLOAD button on top right side of page) 
 2). Project is set up for IntelliJ IDE. Import the entire source code as a new project in IntelliJ or Eclpise 
