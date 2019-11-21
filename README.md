@@ -33,21 +33,21 @@ Application Instruction:
   
 3). You can perform the following operations:
 
-a) Add Advisor - When adding advisor you have an option to select primary advisor checkbox. The application will only store one
+  a) Add Advisor - When adding advisor you have an option to select primary advisor checkbox. The application will only store one
 primary advisor. If you already have a primary advisor from previous entry and still check the primary advisor checkbox. The new entry will become the Primary advisor for this chaptor.
     
-b) Search Advisor - You can search an advisor by entry Advisor ID or Advisor name or both. 
+  b) Search Advisor - You can search an advisor by entry Advisor ID or Advisor name or both. 
     
-c). Save Advisor - If you need to edit/udpate an existing entry, first search or locate it in the grid. Select the entry from the grid.
+  c). Save Advisor - If you need to edit/udpate an existing entry, first search or locate it in the grid. Select the entry from the grid.
 Make necessary changes and click on the save button. The Save will create a new entry and the previous information will be saved as 
 archived.
     
-d) Delete Advisor - First search and select the Advisor in the Grid. Press Delete to delete the advisor. The delete will archive the     entry.
+  d) Delete Advisor - First search and select the Advisor in the Grid. Press Delete to delete the advisor. The delete will archive the     entry.
     
-e) Export CSV - Any information that is visible in the Grid can also be exported as a csv file. YOu can limit/expand information in 
+  e) Export CSV - Any information that is visible in the Grid can also be exported as a csv file. YOu can limit/expand information in 
 the grid before you export.
     
-f) To show archive information, check the 'Show Archive' checkbox and press search button. The Grid will show archived information      for the selected search criteria.
+  f) To show archive information, check the 'Show Archive' checkbox and press search button. The Grid will show archived information      for the selected search criteria.
     
 4). Once exported as CSV file, you can now view the exported information in an excel format for future reference. 
 
