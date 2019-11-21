@@ -24,6 +24,7 @@ Project Build Instructions:
     jackcess-2.1.11.jar
     commons-lang-2.6.jar
     commons-logging-1.1.3.jar
+    The MSAaccess DB file (FBLAAdvisorContact1.accdb) is included in the project under Database. Go to DBConnection.java and correct the file name where ths file is copied.)
     
 5). Compile and build the project. Ensure no error remains.
 
