@@ -11,10 +11,15 @@ Language: Java and JavaFX
 Dependencies: Java 8, JavaFX 12, and MSAccess (as Database), Excel (for CSV)
 
 Project Build Instructions: 
+
 1). Download project from github URL (green CLONE/DOWNLOAD button on top right side of page) 
+
 2). Project is set up for IntelliJ IDE. Import the entire source code as a new project in IntelliJ or Eclpise 
+
 3). Ensure dependecies from libraries are fully resolved. 
+
 4). Look for Main.java file and run (In Intellij, right click and select Run Main.java.
+
 5). A JavaFX standalone application Login page will open. Follow Application Instructions from here.
 
 
